@@ -6,3 +6,5 @@
 
    x = 10;         // write x ( can't be optimized away)
    x = 20;         // write again
+
+*参考：<<Effective Modern C++>> 的 (Item 40)*

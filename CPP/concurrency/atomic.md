@@ -20,4 +20,4 @@
     // y = x 不能通过硬件实现原子操作，所以不允许
 
 
-*参考：<<Effective Modern C++>> 的 (Item 40) *
+*参考：<<Effective Modern C++>> 的 (Item 40)*
